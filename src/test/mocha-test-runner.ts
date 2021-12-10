@@ -1,4 +1,4 @@
-import * as path from "path";
+import * as path from "path-browserify";
 import Mocha from "mocha";
 import glob from "glob";
 
